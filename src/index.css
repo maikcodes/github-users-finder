@@ -1,0 +1,13 @@
+:root {
+  background-color: #141c2f;
+  color: #ffffff;
+  display: grid;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 100vh;
+  place-items: center;
+}
+
+.page-title {
+  font-style: bold;
+  text-align: center;
+}
